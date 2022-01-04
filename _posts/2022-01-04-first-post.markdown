@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "This is a first post"
 categories: update
 ---
