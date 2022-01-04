@@ -36,6 +36,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "default", "dirt", "n
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 defaults:
   # _posts
