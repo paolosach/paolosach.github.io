@@ -30,8 +30,8 @@ github_username:  paolosach
 
 # Build settings
 # theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum" "sunrise"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "contrast" # "air", "aqua", "dark", "default", "dirt", "neon", "mint", "plum" "sunrise"
 
 plugins:
   - jekyll-feed
@@ -49,6 +49,8 @@ defaults:
       comments: true
       share: true
       related: true
+      wide: true
+      show_date: true
 
 
 # Exclude from processing.
