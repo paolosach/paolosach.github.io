@@ -1,13 +1,15 @@
 ---
 layout: single
 title:  "How to download objects from S3 in da CLI"
-categories: s3, aws, cli
+categories: update s3 aws cli
 ---
 AWS CLI has been an intimidating entity for me at first, even though i knew it was much better then always going to the console for basic operations.
 
 That is why i decided to write a series of how tos, so that maybe i will memorize commands better and will have a reference instead of roaming the web searching for answers.
 
 I will start with downloading objects from S3, which is a common thing to do. 
+
+<!--more-->
 
 ## cp
 Downloading an entire folder is as simple as 
