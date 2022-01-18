@@ -2,14 +2,15 @@
 layout: single
 title:  "Interesting python commands"
 categories: update python
+toc: true
+excerpt: "this is my attempt to collect, remember and better understand some python functions"
 ---
 I use Python a lot and always find a number of useful libraries and functions that I once and forget.
 
 And then wish I didn't forget a few weeks or months later.
 
-Well this is my attempt to collect, remeber and better understand some of them.
+Well this is my attempt to collect, remember and better understand some of them.
 
-- [Evaluate Literal](#evaluate-literal)
 
 <!--more-->
 
