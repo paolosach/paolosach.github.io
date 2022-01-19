@@ -47,7 +47,7 @@ will in fact return a dictionary like this
     }
 {% endhighlight %}
 
-which I believe is rarely what one is looking for, espetially because the value is return encrypted.
+which I believe is rarely what one is looking for, at least for the fact that the value is returned encrypted.
 
 To get a more useful result, the option we want is `--with-decryption`
 {% highlight bash %}
