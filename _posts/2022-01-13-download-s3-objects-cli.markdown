@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "How to download objects from S3 in da CLI"
-categories: update s3 aws cli
+categories: update s3 awscli
 ---
 AWS CLI has been an intimidating entity for me at first, even though i knew it was much better then always going to the console for basic operations.
 
