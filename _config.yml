@@ -68,6 +68,7 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
+  layout: archive-taxonomy
 tag_archive:
   type: liquid
   path: /tags/
