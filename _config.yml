@@ -66,10 +66,10 @@ defaults:
       author_profile: true
 
 category_archive:
-  type: jekyll-archives
+  type: liquid
   path: /categories/
 tag_archive:
-  type: jekyll-archives
+  type: liquid
   path: /tags/
 jekyll-archives:
   enabled:
