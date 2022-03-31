@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "Interesting python commands"
+title:  "Python can read"
 categories: update python
 toc: true
-excerpt: "this is my attempt to collect, remember and better understand some python functions"
+excerpt: "how python can read a string and turn it into an object"
 ---
 I use Python a lot and always find a number of useful libraries and functions that I once and forget.
 
